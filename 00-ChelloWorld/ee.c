@@ -1,6 +1,3 @@
-#include <stdio.h>
+Hello, World!
 
-main()
-{
-    printf("Hello World");
-}
+    
