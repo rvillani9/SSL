@@ -1,5 +1,2 @@
 
-Standard utilizado: C17 --
-Compilador utilizado: MINGW64 --
-Versión: 0.2.0
-
+Compilador: MSYS2 con MINGW64 - Versión 12.2. Std = C2X
